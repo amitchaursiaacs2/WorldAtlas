@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Noida, Gautam Budh Nagar"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "8858113691"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "amitchaurasiaacs@gmail.com"
+  }
+]
