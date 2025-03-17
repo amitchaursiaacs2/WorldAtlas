@@ -60,7 +60,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="https://github.com/amitchaursiaacs2/WorldAtlas"
                     target="_blank"
                   >
                     Source Code
